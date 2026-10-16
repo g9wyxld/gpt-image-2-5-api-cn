@@ -109,6 +109,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-f501c5) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [gpt-image-2-5-prompts-cn](https://github.com/g9wyxld/gpt-image-2-5-prompts-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch [gpt-image-2-5-api-de](https://github.com/qxbn6bypo/gpt-image-2-5-api-de) · Español [gpt-image-2-5-api-es](https://github.com/jfblmhen202p/gpt-image-2-5-api-es) · Français [gpt-image-2-5-api-fr](https://github.com/m07pq/gpt-image-2-5-api-fr) · Relay/gateway [gpt-image-2-5-api-gateway](https://github.com/yz-349dgp458/gpt-image-2-5-api-gateway) · Bahasa [gpt-image-2-5-api-id](https://github.com/ylpn4zf3x25/gpt-image-2-5-api-id) · 日本語 [gpt-image-2-5-api-ja](https://github.com/h60lm6mpbu8/gpt-image-2-5-api-ja) · 한국어 [gpt-image-2-5-api-ko](https://github.com/po0klmqz1jy/gpt-image-2-5-api-ko) · Português [gpt-image-2-5-api-pt](https://github.com/t0ascbo6g7g/gpt-image-2-5-api-pt) · Русский [gpt-image-2-5-api-ru](https://github.com/na5t8333y/gpt-image-2-5-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [gpt-image-2-5](https://github.com/topics/gpt-image-2-5) · [gpt-image-2-5-api](https://github.com/topics/gpt-image-2-5-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
